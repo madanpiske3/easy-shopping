@@ -8,6 +8,7 @@ export default function App() {
     <View style={styles.container}>
       <Header />
       <ProductContainer />
+      <Header />
 
       <StatusBar style="auto" />
     </View>
